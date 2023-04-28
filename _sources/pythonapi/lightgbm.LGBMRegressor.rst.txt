@@ -1,0 +1,47 @@
+﻿lightgbm.LGBMRegressor
+======================
+
+.. currentmodule:: lightgbm
+
+.. autoclass:: LGBMRegressor
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~LGBMRegressor.__init__
+      ~LGBMRegressor.fit
+      ~LGBMRegressor.get_metadata_routing
+      ~LGBMRegressor.get_params
+      ~LGBMRegressor.predict
+      ~LGBMRegressor.score
+      ~LGBMRegressor.set_fit_request
+      ~LGBMRegressor.set_params
+      ~LGBMRegressor.set_predict_request
+      ~LGBMRegressor.set_score_request
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~LGBMRegressor.best_iteration_
+      ~LGBMRegressor.best_score_
+      ~LGBMRegressor.booster_
+      ~LGBMRegressor.evals_result_
+      ~LGBMRegressor.feature_importances_
+      ~LGBMRegressor.feature_name_
+      ~LGBMRegressor.n_estimators_
+      ~LGBMRegressor.n_features_
+      ~LGBMRegressor.n_features_in_
+      ~LGBMRegressor.n_iter_
+      ~LGBMRegressor.objective_
+   
+   

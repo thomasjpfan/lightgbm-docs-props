@@ -1,0 +1,25 @@
+﻿lightgbm.CVBooster
+==================
+
+.. currentmodule:: lightgbm
+
+.. autoclass:: CVBooster
+
+   
+   .. automethod:: __init__
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      ~CVBooster.__init__
+      ~CVBooster.model_from_string
+      ~CVBooster.model_to_string
+      ~CVBooster.save_model
+   
+   
+
+   
+   
+   
